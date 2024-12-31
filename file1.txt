@@ -1,0 +1,6 @@
+.creating of custom images by using this service ec2
+.creation of the image 
+.developing the configuration and operating system
+
+2 second service batch mainly for running maximum work loads,ready state, 
+running maximum work loads capacity
