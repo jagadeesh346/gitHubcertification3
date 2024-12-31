@@ -4,4 +4,3 @@
 
 2 second service batch mainly for running maximum work loads,ready state, 
 running maximum work loads capacity
-jagadeesh hii
